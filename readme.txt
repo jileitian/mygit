@@ -6,7 +6,7 @@ Creating a new branch is quick and simple
 
 2nd time, Creating a new branch is quick and simple
 
-Skip FF
+Skip the FF
 
 
 
